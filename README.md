@@ -10,5 +10,7 @@ Feel free to patch & open a PR :P
 ## Credit
 - Death
   - [bb-legacy.js](./bb-legacy.js)
+  - [betatool.js]('./betatool.js')
+
 - zastix
-  - [betastar.js]('./betastar.js')
+  - i'll leak his betastar tool sometime later :P
